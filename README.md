@@ -1,3 +1,3 @@
-# MDC-104 for Material Components for Android (Kotlin)
+# Product Store Example in Kotlin
 
-Contains complete code structure for the MDC-104 Kotlin codelab.
+Modified version of MDC-104 Android Kotlin repon form Codelabs
